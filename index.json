@@ -4,71 +4,27 @@
 	"homeLogo": "./img/logo500x200-1.png",
 	"spider": "./jar/pg.jar?md5=7633f8ea346c082b7aa163be58aed023",
 	"sites": [
-		{
-			"key": "hipy_js_360影视[官]",
-			"name": "360影视[官](drpy_t3)",
+				{
+			"key": "hipy_js_素白白",
+			"name": "素白白(drpy_t3)",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/360影视[官].js"
+			"ext": "./drpy_js/素白白.js"
 		},
-		{
-			"key": "hipy_js_菜狗[官]",
-			"name": "菜狗[官](drpy_t3)",
+				{
+			"key": "hipy_js_厂长资源",
+			"name": "厂长资源(drpy_t3)",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/菜狗[官].js"
-		},
-		{
-			"key": "hipy_js_奇珍异兽[官]",
-			"name": "奇珍异兽[官](drpy_t3)",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/奇珍异兽[官].js"
-		},
-		{
-			"key": "hipy_js_优酷[官]",
-			"name": "优酷[官](drpy_t3)",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/优酷[官].js"
-		},
-		{
-			"key": "hipy_js_腾云驾雾[官]",
-			"name": "腾云驾雾[官](drpy_t3)",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/腾云驾雾[官].js"
-		},
-		{
-			"key": "hipy_js_百忙无果[官]",
-			"name": "百忙无果[官](drpy_t3)",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/百忙无果[官].js"
+			"ext": "./drpy_js/厂长资源.js"
 		},
 		{
 			"key": "88Pan",
@@ -145,17 +101,6 @@
 			"quickSearch": 1,
 			"ext": "https://www.yjys.me/$$$None$$$1",
 			"order_num": 9999
-		},
-		{
-			"key": "hipy_js_厂长资源",
-			"name": "厂长资源(drpy_t3)",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/厂长资源.js"
 		},
 		{
 			"key": "DaPanSo",
